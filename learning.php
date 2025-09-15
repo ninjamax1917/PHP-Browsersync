@@ -1,3 +1,1 @@
-<?php
-
-echo "Learning PHP is functional!";
+<?php echo "<!DOCTYPE html><html><body><h1>Test</h1></body></html>";
